@@ -1,0 +1,1 @@
+- [type alias vs interface](https://blog.logrocket.com/types-vs-interfaces-in-typescript/)
