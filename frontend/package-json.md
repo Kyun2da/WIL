@@ -1,0 +1,1 @@
+peerDependencies에 추가할때 devDependencies에도 추가해줘야함
